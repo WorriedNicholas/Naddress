@@ -25,29 +25,21 @@ section {
 }
 
 .starbucks {
-    width: 50%;
-    float: left;
     text-align: center;
     font-size: 120%;
 }
 
 .black-bear-diner {
-    width: 50%;
-    float: right;
     text-align: center;
     font-size: 120%;
 }
 
 .daily-drip {
-    width: 50%;
-    float: left;
     text-align: center;
     font-size: 120%;
 }
 
 .uptown {
-    width: 50%;
-    float: right;
     text-align: center;
     font-size: 120%;
 
