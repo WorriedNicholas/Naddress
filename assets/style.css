@@ -52,3 +52,11 @@ section {
     font-size: 120%;
 
 }
+
+.google_maps {
+    color: rgb(36,171,227);
+}
+
+.apple_maps {
+    color: rgb(235,28,36);
+}
