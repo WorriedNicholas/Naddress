@@ -4,24 +4,24 @@
 
 .rounded-corners-1 {
     border: 15px solid;
-    border-color: rgb(0, 42, 255);
+    border-color: rgb(36,171,227);
 }
 
 .group-name {
     text-align: left;
+    width: 72%;
     font-size: 170%;
-    color: red;
-    width: 78%;
+    color: rgb(235,28,36);
     float: right;
 }
 
 .logo-image {
     text-align: left;
-    width: 22%;
+    width: 28%;
 }
 
 section {
-    color: darkgoldenrod;
+    color: rgb(251,187,36);
 }
 
 .starbucks {
@@ -50,5 +50,5 @@ section {
     float: right;
     text-align: center;
     font-size: 120%;
-    
+
 }
