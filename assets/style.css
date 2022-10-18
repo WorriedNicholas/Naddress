@@ -10,7 +10,8 @@
 .group-name {
     text-align: left;
     width: 72%;
-    font-size: 170%;
+    font-size: 100%;
+    font-family: fantasy;
     color: rgb(251,187,36);
     float: right;
 }
