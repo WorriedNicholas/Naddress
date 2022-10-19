@@ -6,11 +6,25 @@
     color: rgb(251,187,36);
 }
 .logo {
+    border-radius: 50%;
+    float: left;
+    width: 48%;
     border: 8px solid;
     border-color: rgb(36,171,227);
 }
 
 .dpa {
+    float: right;
+    border-radius: 50%;
+    width: 48%;
+    border: 8px solid;
+    border-color: rgb(36,171,227);
+}
+
+.CatProject {
+    float: left;
+    border-radius: 50%;
+    width: 48%;
     border: 8px solid;
     border-color: rgb(36,171,227);
 }
