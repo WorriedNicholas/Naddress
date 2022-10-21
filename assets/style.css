@@ -1,5 +1,5 @@
 * {
-    background-color: black;
+    background-color: darkred;
 }
 
 .rounded-corners-1 {
@@ -9,7 +9,7 @@
 
 .group-name {
     text-align: left;
-    width: 72%;
+    width: 85%;
     font-size: 100%;
     font-family: fantasy;
     color: rgb(251,187,36);
@@ -18,7 +18,7 @@
 
 .logo-image {
     text-align: left;
-    width: 28%;
+    width: 15%;
 }
 
 section {
