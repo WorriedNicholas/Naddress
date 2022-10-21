@@ -40,3 +40,11 @@
     border: 8px solid;
     border-color: rgb(36, 171, 227);
 }
+
+.markersimg {
+    float: left;
+    width: 48%;
+    border-radius: 50%;
+    border: 8px solid;
+    border-color: rgb(36, 171, 227);
+}
